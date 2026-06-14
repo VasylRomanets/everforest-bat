@@ -87,7 +87,11 @@ if PRETZEL_DAY:
 ## Installation
 
 ```sh
-git clone --depth=1 --no-tags https://github.com/vasylromanets/everforest-bat /tmp/everforest-bat && mkdir -p "$(bat --config-dir)/themes" && cp /tmp/everforest-bat/themes/*.tmTheme "$(bat --config-dir)/themes/" && bat cache --build && rm -rf /tmp/everforest-bat
+git clone --depth=1 --no-tags https://github.com/vasylromanets/everforest-bat /tmp/everforest-bat
+mkdir -p "$(bat --config-dir)/themes"
+cp /tmp/everforest-bat/themes/*.tmTheme "$(bat --config-dir)/themes/"
+rm -rf /tmp/everforest-bat
+bat cache --build
 ```
 
 ## Usage
