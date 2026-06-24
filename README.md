@@ -110,6 +110,12 @@ Or let bat switch automatically based on your terminal's appearance:
 --theme-light="everforest-light"
 ```
 
+## Community Resources
+
+The following are unofficial resources where you can find Everforest ports for other apps and tools:
+- [Everforest Website](https://everforest.vercel.app)
+- [Everforest Collection](https://github.com/neuromaancer/everforest_collection)
+
 ## License
 
 [MIT](./LICENSE)
