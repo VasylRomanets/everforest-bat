@@ -1,8 +1,6 @@
-# 🌲 Everforest for bat
+<h1 align="center">🌲 Everforest for bat</h1>
 
-> Everforest is a green-based color scheme; it's designed to be warm and soft in order to protect developers' eyes.
-
-Dark and light themes for [bat](https://github.com/sharkdp/bat) based on the [Everforest](https://github.com/sainnhe/everforest) color scheme by [sainnhe](https://github.com/sainnhe).
+<p align="center">Everforest is a green-based color scheme designed to be warm and soft in order to protect developers' eyes. This repo brings dark and light themes to <a href="https://github.com/sharkdp/bat">bat</a>, based on the original <a href="https://github.com/sainnhe/everforest">Everforest</a> scheme by <a href="https://github.com/sainnhe">sainnhe</a>.</p>
 
 ## Previews
 
